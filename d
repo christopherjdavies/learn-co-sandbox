@@ -1,0 +1,2 @@
+lyrics = "Chris"
+lyrics
